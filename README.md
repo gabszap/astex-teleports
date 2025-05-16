@@ -1,157 +1,241 @@
-# JSON Paradise
+<div align="center">
+  <h1>🌟 ASTEX Teleports</h1>
+  <img src="https://files.catbox.moe/0h1v7c.png" width="800"/>
+  <p>Uma coleção de teleportes para <em>Genshin Impact</em> para otimizar rotas, economizar tempo e melhorar sua experiência de jogo.
+  </p>
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gabszap/astex-teleports?style=for-the-badge">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/gabszap/astex-teleports?style=for-the-badge&color=yellow">
+    <a href="https://discord.gg/akebi"><img alt="Discord" src="https://img.shields.io/discord/742837422319992924?label=Discord&logo=discord&style=for-the-badge&color=5865F2&logoColor=white"></a>
+    <!-- <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgabszap%2Fastex-teleports"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgabszap%2Fastex-teleports&label=Visitantes&labelColor=%23697689&countColor=%23dce775"></a> -->
+</div>
 
-Compilado de teleportes para Genshin Impact feito para reduzir o desperdício de tempo em rotas repetitivas e melhorando a eficiência de sua experiência de jogo.
+<p align="center">
+  <b>Este readme está disponível em:</b><br>
+  <a href="README.md">
+    <img alt="Português" src="https://img.shields.io/badge/pt--br-Português-green?style=flat-square">
+  </a>
+  <a href="docs/readme_EN.md">
+    <img alt="English" src="https://img.shields.io/badge/en-English(soon)-blue?style=flat-square">
+  </a>
+</p>
 
 ---
-Ultima Atualização:
 
----
-
-## Sumário
-> Sumário com todos os topicos neste post.
-
-- [**Exploração**](#exploração)
-  - [Baus](#baus)
-  - texto
-  - texto
-- [**Farming**](#farming)
-  - [Oculis](#oculis)
+## 📜 Sumário
+- [Sobre](#-sobre)
+- [Como Pesquisar](#-como-pesquisar)
+- [Exploração](#-exploração)
+  - [Baús](#baús)
+- [Farming](#-farming)
+  - [Oculi](#oculi)
   - [Especialidades](#especialidades)
+    - [Mondstadt](#mondstadt)
+    - [Liyue](#liyue)
+    - [Inazuma](#inazuma)
+    - [Sumeru](#sumeru)
+    - [Fontaine](#fontaine)
+    - [Natlan](#natlan)
+- [Bônus de Personagens](#-bônus-de-personagens)
 
-# Como procurar na pagina?
-> Pressione "CTRL + F" e digite na caixa oque você quer
->
-> Para uma pesquisa com mais precisão não inclua hífen ( - )
->
-> Por exemplo, pesquise “doce” ou “flor” em vez de “flor-doce”.
+---
 
-# Exploração
-----
+## 🌍 Sobre
+Astex Teleports é um projeto voltado para a comunidade de *Genshin Impact*, criado para simplificar sua jogatina. Este guia oferece teleportes para reduzir rotas repetitivas, ajudando você a farmar com eficiência e explorar com facilidade.
 
-# Baus
-| Icon                  | Nome                 |    
-| ---------- | ----------------------------------- | 
-| ![Bau](assets/CommonChest.png)      | [Mondstadt](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Mondstadt.rar?raw=true)| 
-| ![Bau](assets/CommonChest.png)      | [Liyue](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Liyue.rar?raw=true)| 
-| ![Bau](assets/CommonChest.png)      | [Inazuma](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Inazuma.rar?raw=true)| 
-| ![Bau](assets/CommonChest.png)      | [Sumeru](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Sumeru.rar?raw=true)| 
-| ![Bau](assets/CommonChest.png)      | [Fontaine 4.0-4.6](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Fontaine%204.0-4.6.rar?raw=true)| 
-| ![Bau](assets/CommonChest.png)      | [Enkanomiya](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Enkanomiya%20(desbloquear%20primeiro).rar?raw=true)| 
-| ![Bau](assets/CommonChest.png)      | [Espinha do Dragão](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Dragonspine.rar?raw=true)| 
-| ![Bau](assets/CommonChest.png)      | [Despenhadeiro](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Despenhadeiro.rar?raw=true)| 
-| ![Bau](assets/CommonChest.png)      | [Despenhadeiro Subterraneo](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Minas%20subterraneas%20(despenhadeiro).rar?raw=true)|
-| ![Bau](assets/CommonChest.png)      | [Vale Chenyu](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Vale%20Chenyu.rar?raw=true) |
+---
 
+## 🔍 Como Pesquisar
+Para encontrar rapidamente o que precisa:
+1. Pressione `Ctrl + F`.
+2. Digite sua busca na barra de pesquisa.
+3. Para melhores resultados, evite hífens (ex.: pesquise `doce` em vez de `flor-doce`).
 
+> 💡 **Dica**: Use palavras-chave simples como `baú`, `oculus` ou `especialidade` para resultados mais rápidos.
 
-# Farming
------
-## Oculis
-> NOTAS:
->
-> Atualmente há 216 hydroculos no mapa (Genshin 4.2)
->
-> Espinha ate lvl 8 o restante é so missao a cada 3 dias para pegar 5 
-> 
-> Há informações extras nos numeros pequenos do lado do nome do item.
+---
 
-| Icon                                             | Nome               | Região          |
-| ---------- | ----------------------------------------------------- | --------------------- |
-| ![Anemoculus](assets/Anemoculus.png)     |[Anemoculus](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Anemoculus.rar)        |Mondstadt               | 
-| ![Geoculus](assets/Geoculus.png)         |[Geoculus](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Geoculus.rar)          |Liyue                   | 
-| ![Electroculus](assets/Electroculus.png) |[Electroculus](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Electroculus.rar)      |Inazuma                 | 
-| ![Dendroculus](assets/Dendroculus.png)   |[Dendroculus](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Dendroculus.rar)       |Sumeru                  | 
-| ![Hydroculus](assets/Hydroculus.png)     |[Hydroculus](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/Hydroculus.rar)        |Fontaine                |  
-| ![Carmesim](assets/CrimsonAgate.png)     |[Calcedônia Carmesim](https://raw.githubusercontent.com/Gabriel4927/json-paradise/blob/main/download/CalcedoniaCarmesim.rar) |Espinha do dragão     | 
-| ![Lumenspar](assets/Lumenspar.png)       |[Espato Lúmen](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/EspatoLumen.rar)      |Despenhadeiro: subterrâneo | 
-| ![LumensparOre](assets/Lumenspar.png)    |[Minério Lúmen](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/MinerioLumen.rar)[^1] |Despenhadeiro: subterrâneo | 
-| ![Chave](assets/KeySigil.png)            |[Padrões de chave](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/Padr%C3%B5es%20de%20chave.rar)[^2] | Enkanomiya             | 
-| ![Selo](assets/SacredSeal.png)           |[Selo Sagrado](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/Selo%20Sagrado.rar)      |Sumeru: Deserto            | 
+## 🗺️ Exploração
 
-# Especialidades
-> Especialidades estão separadas por região.
-- [Mondstadt](#mondstadt)
-- [Liyue](#liyue)
-- [Inazuma](#inazuma)
-- [Sumeru](#sumeru)
-- [Fontaine](#fontaine) (atualizado conforme as expansões)
+### Baús
+| Ícone | Região | Download |
+|-------|--------|----------|
+| <img src="assets/icons/Mondstadt.png" width="30"/> | Mondstadt | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Mondstadt.rar?raw=true) |
+| <img src="assets/icons/Liyue.png" width="30"/> | Liyue | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Liyue.rar?raw=true) |
+| <img src="assets/icons/Inazuma.png" width="30"/> | Inazuma | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Inazuma.rar?raw=true) |
+| <img src="assets/icons/Sumeru.png" width="30"/> | Sumeru | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Sumeru.rar?raw=true) |
+| <img src="assets/icons/Fontaine.png" width="30"/> | Fontaine | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Fontaine%204.0-4.6.rar?raw=true) |
+| <img src="assets/icons/Enkanomiya.png" width="30"/> | Enkanomiya | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Enkanomiya%20(desbloquear%20primeiro).rar?raw=true) |
+| <img src="assets/icons/Dragonspine.png" width="30"/> | Espinha do Dragão | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Dragonspine.rar?raw=true) |
+| <img src="assets/icons/Chasm.png" width="30"/> | Despenhadeiro | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Despenhadeiro.rar?raw=true) |
+| <img src="assets/icons/Chasm.png" width="30"/> | Despenhadeiro: Subterrâneo | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Minas%20subterraneas%20(despenhadeiro).rar?raw=true) |
+| <img src="assets/icons/Vale_Chenyu.png" width="30"/> | Vale Chenyu | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Vale%20Chenyu.rar?raw=true) |
+| <img src="assets/icons/Natlan.png" width="30"/> | Natlan | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Natlan.rar?raw=true) |
 
-## Bônus de personagem
-> Certos têm Talentos que ajudam a identificar especialidades locais, indicando-os com um ícone de mão no minimapa:
+<p align="right"><a href="#-sumário">⬆ Voltar ao Topo</a></p>
 
-| Icon                        | Nome                        | Região                | Descrição                 |
-| ---------------------------------- | --------------------- | --------------------- | --------------------------|
-| ![Klee](assets/klee.png) | Klee                 | Mondstadt | Mostra a localização de **especialidades de Mondstadt** próximas no mapa.
-| ![Mika](assets/mika.png) | Mika                 | Mondstadt | Mostra a localização de **especialidades de Mondstadt** próximas no mapa.
-| ![Yanfei](assets/yanfei.png) | Yanfei           | Liyue     | Mostra a localização de **especialidades de Liyue** próximas no mapa.
-| ![Qiqi](assets/qiqi.png)     | Qiqi             | Liyue     | Mostra a localização de **especialidades de Liyue** próximas no mapa.
-| ![Tigas](assets/tighnari.png) | Tighnari        | Sumeru    | Mostra a localização de **especialidades de Sumeru** próximas no mapa.
-| ![Nahida](assets/nahida.webp) | Nahida          | Sumeru    | Nahida pode usar **Esquemas Universais** para interagir com outros objetos coletáveis dentro de uma certa AdE.
-| ![Gorou](assets/gorou.png) | Gorou              | Inazuma   | Mostra a localização de **especialidades de Inazuma** próximas no mapa.
-| ![Lyney](assets/lyney.png) | Lyney              | Fontaine  | Mostra a localização de **especialidades de Fontaine** próximas no mapa.
+---
 
-# Mondstadt
+## 🌱 Farming
 
-| Icon                                         | Nome              | Região     |
-| --------------- | -------------------------------------------- | ------------------ | 
-| ![Cecilia](assets/especialiadades/Cecilia.webp) | [Cecilia](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Cecillia.rar) | Mondstadt | 
-| ![Cogumelo](assets/especialiadades/Cogumelo_Philanemo.webp) | [Cogumelo Philanemo](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Cogumelo_Philanemo.rar) | Mondstadt | 
-| ![Gancho](assets/especialiadades/Gancho_do_Lobo.webp) | [Gancho do Lobo](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Gancho_do_lobo.rar) | Mondstadt | 
-| ![Lampada](assets/especialiadades/Lampada_de_Grama.webp) | [Lampada de Grama](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lampada_de_grama.rar) | Mondstadt | 
-| ![Margarida](assets/especialiadades/Margaridas_Voadoras.webp) | [Margaridas Voadoras](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Margaridas_Voadoras.rar) | Mondstadt | 
-| ![Dandelion](assets/especialiadades/Sementes_de_Dandelion.webp) | [Semente de Dandelion](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Sementes_de_dandelion.rar) | Mondstadt | 
-| ![Valberry](assets/especialiadades/Valberry.webp) | [Valberry](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Valberry.rar) | Mondstadt | 
+> **Nota**: Em *Genshin Impact* 5.6, há **222 pyroculus** em Natlan, permitindo deixar a Estátua dos Sete no nível 8 com 30/38 coletados. Na Espinha do Dragão, a Calcedônia Carmesim alcança o nível 8; os extras são obtidos em missões a cada 3 dias.
 
-# Liyue
+| Ícone | Nome | Região | Download |
+|-------|------|--------|----------|
+| <img src="assets/Anemoculus.png" width="30"/> | Anemoculus | Mondstadt | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Anemoculus.rar) |
+| <img src="assets/Geoculus.png" width="30"/> | Geoculus | Liyue | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Geoculus.rar) |
+| <img src="assets/Electroculus.png" width="30"/> | Electroculus | Inazuma | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Electroculus.rar) |
+| <img src="assets/Dendroculus.png" width="30"/> | Dendroculus | Sumeru | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Dendroculus.rar) |
+| <img src="assets/Hydroculus.png" width="30"/> | Hydroculus | Fontaine | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/Hydroculus.rar) |
+| <img src="assets/Pyroculus.png" width="30"/> | Pyroculus | Natlan | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/Pyroculus.rar) |
+| <img src="assets/CrimsonAgate.png" width="30"/> | Calcedônia Carmesim	 | Espinha do Dragão | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/blob/main/download/CalcedoniaCarmesim.rar) |
+| <img src="assets/Lumenspar.png" width="30"/> | Espato Lúmen | Despenhadeiro: Subterrâneo | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/EspatoLumen.rar) |
+| <img src="assets/Lumenspar.png" width="30"/> | Minério Lúmen | Despenhadeiro: Subterrâneo | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/MinerioLumen.rar) |
+| <img src="assets/KeySigil.png" width="30"/> | Padrões de Chave | Enkanomiya | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/Padr%C3%B5es%20de%20chave.rar) |
+| <img src="assets/SacredSeal.png" width="30"/> | Selo Sagrado | Sumeru: Deserto | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/Selo%20Sagrado.rar) |
+| <img src="assets/spirit_carp.png" width="30"/> | Carpa Espiritual | Vale Chenyu | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/Carpa_Espiritual.rar) |
 
-| Icon                                         | Nome              | Região   |
-| --------------- | -------------------------------------------- | ------------------ |
-| ![Concha](assets/especialiadades/Conchas_Estreladas.webp) | [Concha Estrelada](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Concha_Estrelada.rar) | Liyue | 
-| ![Lapis](assets/especialiadades/Cor_Lapis.webp) | [Cor Lapis](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/CorLapis.rar) | Liyue | 
-| ![Seda](assets/especialiadades/Flor_de_Seda.webp) | [Flor de Seda](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Flor_de_seda.rar) | Liyue | 
-| ![Jade](assets/especialiadades/Jade_Nocticulosa.webp) | [Jade Nocticulosa](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Jade_Nocticulosa.rar) | Liyue | 
-| ![Lirio](assets/especialiadades/Lirio_de_Vidro.webp) | [Lirio de Vidro](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lirio_de_Vidro.rar) | Liyue | 
-| ![Pimenta](assets/especialiadades/Pimenta_de_Jueyun.webp) | [Pimenta de Jueyun](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Pimenta_de_Jueyun.rar) | Liyue | 
-| ![Qingxin](assets/especialiadades/Qingxin.webp) | [Qingxin](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Qingxin.rar) | Liyue | 
-| ![Violeta](assets/especialiadades/Violeta.webp) | [Violeta](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Violeta.rar) | Liyue | 
+> **Observações**:
+> - **Minério Lúmen**: Usado para aumentar o nível da Lanterna Lúmen.
+> - **Padrões de Chave**: Complete todas as missões de Enkanomiya antes de coletá-los. Veja onde usá-los: [YouTube](https://youtu.be/_ES5BTwIp_M?si=IapwxOCtptDzCO-A).
+> - **Selo Sagrado**: Eu não achei pra que serve isso.
 
-# Inazuma
+<p align="right"><a href="#-sumário">⬆ Voltar ao Topo</a></p>
 
-| Icon                                         | Nome              | Região    |
-| --------------- | -------------------------------------------- | ------------------ |
-| ![Dendrobio](assets/especialiadades/Dendrobio.webp) | [Dendrobio](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Dendrobium.rar) | Inazuma | 
-| ![Erva Naku](assets/especialiadades/Erva_Naku.webp) | [Erva Naku](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Erva_Naku.rar) | Inazuma | 
-| ![Fruto Tenkumo](assets/especialiadades/Fruto_Tenkumo.webp) | [Fruto Tenkumo](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Fruto_Tenkumo.rar) | Inazuma | 
-| ![Fungo Fluorescente](assets/especialiadades/Fungos_Fluorescentes.webp) | [Fungos Fluorescentes](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Fungo_Fluorescente.rar) | Inazuma | 
-| ![Fungo Marítimo](assets/especialiadades/Fungos_Maritimos.webp) | [Fungos Marítimos](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Fungo_Maritimo.rar) | Inazuma | 
-| ![Medula de Cristal](assets/especialiadades/Medula_de_Cristal.webp) | [Medula de Cristal](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Medula_de_Cristal.rar) | Inazuma | 
-| ![Onikabuto](assets/especialiadades/Onikabuto.webp) | [Onikabuto](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Onikabuto.rar) | Inazuma | 
-| ![Pérola Sango](assets/especialiadades/Perola_Sango.webp) | [Pérola Sango](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Perola_Sango.rar) | Inazuma | 
-| ![Pétalas da Flor de Sakura](assets/especialiadades/Petalas_da_Flor_de_Sakura.webp) | [Pétalas da Flor de Sakura](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Petalas_de_Sakura.rar) | Inazuma | 
+### Especialidades
+Farme especialidades regionais para ascensão de personagens e missões.
 
-# Sumeru
+<details>
+<summary><strong>🗺️ Mondstadt</strong></summary>
 
-| Icon                                         | Nome              | Região  |
-| --------------- | -------------------------------------------- | ------------------ |
-| ![Baga de espinheiro](assets/especialiadades/Baga_de_Espinheiro.webp) | [Baga de espinheiro](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Baga_de_Espinheiro.rar) | Sumeru | 
-| ![Escaravelho dourado](assets/especialiadades/Escaravelho_Dourado.webp) | [Escaravelho dourado](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Escaravelho.rar) | Sumeru | 
-| ![Flor do luto](assets/especialiadades/Flor_do_Luto.webp) | [Flor do luto](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Flor_do_Luto.rar) | Sumeru | 
-| ![Gordura de pupa de areia](assets/especialiadades/Gordura_de_Pupa_de_Areia.webp) | [Gordura de pupa de areia](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Gordura_de_pupa_de_areia.rar) | Sumeru | 
-| ![Lotus kalpalata](assets/especialiadades/Lotus_Kalpalata.webp) | [Lotus kalpalata](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lotus_Kalpalata.rar) | Sumeru | 
-| ![Lotus nilotpala](assets/especialiadades/Lotus_Nilotpala.webp) | [Lotus nilotpala](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lotus_Nilotpala.rar) | Sumeru | 
-| ![Padirasah](assets/especialiadades/Padisarah.webp) | [Padirasah](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Padisarah.rar) | Sumeru | 
+| Ícone | Nome | Download |
+|-------|------|----------|
+| <img src="assets/especialidades/Calla_Lily.png" width="30"/> | Lótus de Leite | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Calla_Lily.rar) |
+| <img src="assets/especialidades/Cecilia.png" width="30"/> | Cecília | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Cecilia.rar) |
+| <img src="assets/especialidades/Dandelion_Seed.png" width="30"/> | Semente de Dandelion | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Dandelion_Seed.rar) |
+| <img src="assets/especialidades/Philanemo_Mushroom.png" width="30"/> | Cogumelo Philanemo | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Philanemo_Mushroom.rar) |
+| <img src="assets/especialidades/Small_Lamp_Grass.png" width="30"/> | Lâmpada de Grama | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Small_Lamp_Grass.rar) |
+| <img src="assets/especialidades/Valberry.png" width="30"/> | Valberry | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Valberry.rar) |
+| <img src="assets/especialidades/Windwheel_Aster.png" width="30"/> | Margaridas Voadoras | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Windwheel_Aster.rar) |
+| <img src="assets/especialidades/Wolfhook.png" width="30"/> | Gancho do Lobo | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Wolfhook.rar) |
+</details>
 
-# Fontaine
+<details>
+<summary><strong>🏯 Liyue</strong></summary>
 
-| Icon                                         | Nome              | Região   |
-| --------------- | -------------------------------------------- | ------------------ |
-| ![Flor](assets/especialiadades/Romaritime_Flower.webp) | [Flor Rociomarinha](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Flor_Rociomarinha.rar) | Fontaine | 
-| ![Lumidoce](assets/especialiadades/LUmidouce_Bell.webp) | [Campânula Lumidouce](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Campanula_Lumidouce.rar) | Fontaine | 
-| ![Rosa](assets/especialiadades/Rainbow_Rose.webp) | [Rosa Arco-Iris](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Rosa_ArcoIris.rar) | Fontaine | 
-| ![Lumitoile](assets/especialiadades/Lumitoile.webp) | [Lumitoile](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lumitoile.rar) | Fontaine | 
-| ![unidade](assets/especialiadades/Subdetection_Unit.webp) | [Unidade de Subdetecção](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Unidade_de_Subdetecção.rar) | Fontaine | 
-| ![Furina](assets/especialiadades/Flordaluzdolago.webp) | [Flor da Luz do Lago](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/FlorDaLuzDoLago.rar) | Fontaine |
+| Ícone | Nome | Download |
+|-------|------|----------|
+| <img src="assets/especialidades/Clearwater_Jade.png" width="30"/> | Jade Cristalino | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Clearwater_Jade.rar) |
+| <img src="assets/especialidades/Cor_Lapis.png" width="30"/> | Cor Lapis | [Download](https://github.com/Gabriel4927/json-paradise/rawmain/download/Especialidades/Cor_Lapis.rar) |
+| <img src="assets/especialidades/Glaze_Lily.png" width="30"/> | Lírio de Vidro | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Glaze_Lily.rar) |
+| <img src="assets/especialidades/Jueyun_Chili.png" width="30"/> | Pimenta de Jueyun | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Jueyun_Chili.rar) |
+| <img src="assets/especialidades/Noctilucous_Jade.png" width="30"/> | Jade Noctilucosa | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Noctilucous_Jade.rar) |
+| <img src="assets/especialidades/Qingxin.png" width="30"/> | Qingxin | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Qingxin.rar) |
+| <img src="assets/especialidades/Silk_Flower.png" width="30"/> | Flor de Seda | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Silk_Flower.rar) |
+| <img src="assets/especialidades/Starconch.png" width="30"/> | Concha Estrelada | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Starconch.rar) |
+| <img src="assets/especialidades/Violetgrass.png" width="30"/> | Violeta | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Violetgrass.rar) |
+</details>
 
-[^1]: Minério Lúmen é usado para upar o nivel da lanterna.
-[^2]: Já ter feito todas as missões de enkanomiya antes de ir atras dos padrões de chave. Onde usar os padrões de chave: https://youtu.be/_ES5BTwIp_M?si=IapwxOCtptDzCO-A
+<details>
+<summary><strong>⚡️ Inazuma</strong></summary>
 
+| Ícone | Nome | Download |
+|-------|------|----------|
+| <img src="assets/especialidades/Amakumo_Fruit.png" width="30"/> | Fruto Amakumo | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Amakumo_Fruit.rar) |
+| <img src="assets/especialidades/Crystal_Marrow.png" width="30"/> | Medula de Cristal | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Crystal_Marrow.rar) |
+| <img src="assets/especialidades/Dendrobium.png" width="30"/> | Dendróbio | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Dendrobium.rar) |
+| <img src="assets/especialidades/Fluorescent_Fungus.png" width="30"/> | Cogumelo Fluorescente | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Fluorescent_Fungus.rar) |
+| <img src="assets/especialidades/Naku_Weed.png" width="30"/> | Erva Naku | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Naku_Weed.rar) |
+| <img src="assets/especialidades/Onikabuto.png" width="30"/> | Onikabuto | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Onikabuto.rar) |
+| <img src="assets/especialidades/Sakura_Bloom.png" width="30"/> | Flor de Sakura | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Sakura_Bloom.rar) |
+| <img src="assets/especialidades/Sango_Pearl.png" width="30"/> | Pérola Sango | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Sango_Pearl.rar) |
+| <img src="assets/especialidades/Sea_Ganoderma.png" width="30"/> | Fungos Marítimos | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Sea_Ganoderma.rar) |
+</details>
+
+<details>
+<summary><strong>🌿 Sumeru</strong></summary>
+
+| Ícone | Nome | Download |
+|-------|------|----------|
+| <img src="assets/especialidades/Henna_Berry.png" width="30"/> | Baga de Espinheiro | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Henna_Berry.rar) |
+| <img src="assets/especialidades/Kalpalata_Lotus.png" width="30"/> | Lótus Kalpalata | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Kalpalata_Lotus.rar) |
+| <img src="assets/especialidades/Mourning_Flower.png" width="30"/> | Flor do Luto | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Mourning_Flower.rar) |
+| <img src="assets/especialidades/Nilotpala_Lotus.png" width="30"/> | Lótus Nilotpala | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Nilotpala_Lotus.rar) |
+| <img src="assets/especialidades/Padisarah.png" width="30"/> | Padisarah | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Padisarah.rar) |
+| <img src="assets/especialidades/Rukkhashava_Mushrooms.png" width="30"/> | Cogumelo Rukkhashava | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Rukkhashava_Mushrooms.rar) |
+| <img src="assets/especialidades/Sand_Grease_Pupa.png" width="30"/> | Pupa de Gordura de Areia | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Sand_Grease_Pupa.rar) |
+| <img src="assets/especialidades/Scarab.png" width="30"/> | Escaravelho Dourado | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Scarab.rar) |
+| <img src="assets/especialidades/Trishiraite.png" width="30"/> | Trishiraita | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Trishiraite.rar) |
+</details>
+
+<details>
+<summary><strong>💧 Fontaine</strong></summary>
+
+| Ícone | Nome | Download |
+|-------|------|----------|
+| <img src="assets/especialidades/Beryl_Conch.png" width="30"/> | Concha de Cristal Azul | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Beryl_Conch.rar) |
+| <img src="assets/especialidades/Lakelight_Lily.png" width="30"/> | Flor da Luz do Lago | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lakelight_Lily.rar) |
+| <img src="assets/especialidades/Lumidouce_Bell.png" width="30"/> | Campânula Lumidouce | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lumidouce_Bell.rar) |
+| <img src="assets/especialidades/Lumitoile.png" width="30"/> | Lumitoile | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lumitoile.rar) |
+| <img src="assets/especialidades/Rainbow_Rose.png" width="30"/> | Rosa Arco-Íris | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Rainbow_Rose.rar) |
+| <img src="assets/especialidades/Romaritime_Flower.png" width="30"/> | Flor Romaritime | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Romaritime_Flower.rar) |
+| <img src="assets/especialidades/Spring_of_the_First_Dewdrop.png" width="30"/> | Primavera do Primeiro Orvalho | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Spring_of_the_First_Dewdrop.rar) |
+| <img src="assets/especialidades/Subdetection_Unit.png" width="30"/> | Unidade de Subdetecção | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Subdetection_Unit.rar) |
+</details>
+
+<details>
+<summary><strong>🔥 Natlan</strong></summary>
+
+| Ícone | Nome | Download |
+|-------|------|----------|
+| <img src="assets/especialidades/Brilliant_Chrysanthemum.png" width="30"/> | Crisântemo Brilhante | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Brilliant_Chrysanthemum.rar) |
+| <img src="assets/especialidades/Dracolite.png" width="30"/> | Dracolita | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Dracolite.rar) |
+| <img src="assets/especialidades/Glowing_Hornshroom.png" width="30"/> | Cogumelo Brilhante | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Glowing_Hornshroom.rar) |
+| <img src="assets/especialidades/Quenepa_Berry.png" width="30"/> | Baga Quenepa | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Quenepa_Berry.rar) |
+| <img src="assets/especialidades/Saurian_Claw_Succulent.png" width="30"/> | Suculenta de Garra Sauriana | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Saurian_Claw_Succulent.rar) |
+| <img src="assets/especialidades/Sprayfeather_Gill.png" width="30"/> | Guelra da Espuma | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Sprayfeather_Gill.rar) |
+| <img src="assets/especialidades/Withering_Purpurbloom.png" width="30"/> | Flor Púrpura Definhada | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Withering_Purpurbloom.rar) |
+| <img src="assets/especialidades/Skysplit_Gembloom.png" width="30"/> | Florgema Celeste | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Skysplit_Gembloom.rar) |
+
+</details>
+
+<p align="right"><a href="#-sumário">⬆ Voltar ao Topo</a></p>
+
+---
+
+## 🎯 Bônus de Personagens
+
+Alguns personagens possuem talentos que destacam especialidades regionais no minimapa com um **ícone de mão** 
+<img src="assets/icons/hand_icon.png" width="15"/>
+
+| Personagem | Raridade | Região   | Especialidades Locais |
+|:----------:|:--------:|:--------:|:---------------------:|
+| <img src="assets/chars/tighnari.png" width="32"/><br/>Tighnari | 5★ | Sumeru | <img src="assets/especialidades/Mourning_Flower.png" width="24"/> <img src="assets/especialidades/Kalpalata_Lotus.png" width="24"/> <img src="assets/especialidades/Rukkhashava_Mushrooms.png" width="24"/> <img src="assets/especialidades/Nilotpala_Lotus.png" width="24"/> <img src="assets/especialidades/Padisarah.png" width="24"/> <img src="assets/especialidades/Henna_Berry.png" width="24"/> <img src="assets/especialidades/Scarab.png" width="24"/> <img src="assets/especialidades/Sand_Grease_Pupa.png" width="24"/> <img src="assets/especialidades/Trishiraite.png" width="24"/> |
+| <img src="assets/chars/sethos.png" width="32"/><br/>Sethos | 4★ | Sumeru | <img src="assets/especialidades/Mourning_Flower.png" width="24"/> <img src="assets/especialidades/Kalpalata_Lotus.png" width="24"/> <img src="assets/especialidades/Rukkhashava_Mushrooms.png" width="24"/> <img src="assets/especialidades/Nilotpala_Lotus.png" width="24"/> <img src="assets/especialidades/Padisarah.png" width="24"/> <img src="assets/especialidades/Henna_Berry.png" width="24"/> <img src="assets/especialidades/Scarab.png" width="24"/> <img src="assets/especialidades/Sand_Grease_Pupa.png" width="24"/> <img src="assets/especialidades/Trishiraite.png" width="24"/> |
+| <img src="assets/chars/mualani.png" width="32"/><br/>Mualani | 5★ | Natlan | <img src="assets/especialidades/Brilliant_Chrysanthemum.png" width="24"/> <img src="assets/especialidades/Quenepa_Berry.png" width="24"/> <img src="assets/especialidades/Saurian_Claw_Succulent.png" width="24"/> <img src="assets/especialidades/Sprayfeather_Gill.png" width="24"/> <img src="assets/especialidades/Withering_Purpurbloom.png" width="24"/> <img src="assets/especialidades/Glowing_Hornshroom.png" width="24"/> <img src="assets/especialidades/Skysplit_Gembloom.png" width="24"/> <img src="assets/especialidades/Dracolite.png" width="24"/> |
+| <img src="assets/chars/kachina.png" width="32"/><br/>Kachina | 4★ | Natlan | <img src="assets/especialidades/Brilliant_Chrysanthemum.png" width="24"/> <img src="assets/especialidades/Quenepa_Berry.png" width="24"/> <img src="assets/especialidades/Saurian_Claw_Succulent.png" width="24"/> <img src="assets/especialidades/Sprayfeather_Gill.png" width="24"/> <img src="assets/especialidades/Withering_Purpurbloom.png" width="24"/> <img src="assets/especialidades/Glowing_Hornshroom.png" width="24"/> <img src="assets/especialidades/Skysplit_Gembloom.png" width="24"/> <img src="assets/especialidades/Dracolite.png" width="24"/> |
+| <img src="assets/chars/kinich.png" width="32"/><br/>Kinich | 5★ | Natlan | <img src="assets/especialidades/Brilliant_Chrysanthemum.png" width="24"/> <img src="assets/especialidades/Quenepa_Berry.png" width="24"/> <img src="assets/especialidades/Saurian_Claw_Succulent.png" width="24"/> <img src="assets/especialidades/Sprayfeather_Gill.png" width="24"/> <img src="assets/especialidades/Withering_Purpurbloom.png" width="24"/> <img src="assets/especialidades/Glowing_Hornshroom.png" width="24"/> <img src="assets/especialidades/Skysplit_Gembloom.png" width="24"/> <img src="assets/especialidades/Dracolite.png" width="24"/> |
+| <img src="assets/chars/klee.png" width="32"/><br/>Klee | 5★ | Mondstadt | <img src="assets/especialidades/Calla_Lily.png" width="24"/> <img src="assets/especialidades/Cecilia.png" width="24"/> <img src="assets/especialidades/Philanemo_Mushroom.png" width="24"/> <img src="assets/especialidades/Wolfhook.png" width="24"/> <img src="assets/especialidades/Small_Lamp_Grass.png" width="24"/> <img src="assets/especialidades/Windwheel_Aster.png" width="24"/> <img src="assets/especialidades/Dandelion_Seed.png" width="24"/> <img src="assets/especialidades/Valberry.png" width="24"/> |
+| <img src="assets/chars/mika.png" width="32"/><br/>Mika | 4★ | Mondstadt | <img src="assets/especialidades/Calla_Lily.png" width="24"/> <img src="assets/especialidades/Cecilia.png" width="24"/> <img src="assets/especialidades/Philanemo_Mushroom.png" width="24"/> <img src="assets/especialidades/Wolfhook.png" width="24"/> <img src="assets/especialidades/Small_Lamp_Grass.png" width="24"/> <img src="assets/especialidades/Windwheel_Aster.png" width="24"/> <img src="assets/especialidades/Dandelion_Seed.png" width="24"/> <img src="assets/especialidades/Valberry.png" width="24"/> |
+| <img src="assets/chars/qiqi.png" width="32"/><br/>Qiqi | 5★ | Liyue | <img src="assets/especialidades/Cor_Lapis.png" width="24"/> <img src="assets/especialidades/Silk_Flower.png" width="24"/> <img src="assets/especialidades/Noctilucous_Jade.png" width="24"/> <img src="assets/especialidades/Glaze_Lily.png" width="24"/> <img src="assets/especialidades/Jueyun_Chili.png" width="24"/> <img src="assets/especialidades/Qingxin.png" width="24"/> <img src="assets/especialidades/Violetgrass.png" width="24"/> <img src="assets/especialidades/Starconch.png" width="24"/> <img src="assets/especialidades/Clearwater_Jade.png" width="24"/> |
+| <img src="assets/chars/yanfei.png" width="32"/><br/>Yanfei | 4★ | Liyue | <img src="assets/especialidades/Cor_Lapis.png" width="24"/> <img src="assets/especialidades/Silk_Flower.png" width="24"/> <img src="assets/especialidades/Noctilucous_Jade.png" width="24"/> <img src="assets/especialidades/Glaze_Lily.png" width="24"/> <img src="assets/especialidades/Jueyun_Chili.png" width="24"/> <img src="assets/especialidades/Qingxin.png" width="24"/> <img src="assets/especialidades/Violetgrass.png" width="24"/> <img src="assets/especialidades/Starconch.png" width="24"/> <img src="assets/especialidades/Clearwater_Jade.png" width="24"/> |
+| <img src="assets/chars/gorou.png" width="32"/><br/>Gorou | 4★ | Inazuma | <img src="assets/especialidades/Dendrobium.png" width="24"/> <img src="assets/especialidades/Naku_Weed.png" width="24"/> <img src="assets/especialidades/Amakumo_Fruit.png" width="24"/> <img src="assets/especialidades/Fluorescent_Fungus.png" width="24"/> <img src="assets/especialidades/Sea_Ganoderma.png" width="24"/> <img src="assets/especialidades/Crystal_Marrow.png" width="24"/> <img src="assets/especialidades/Onikabuto.png" width="24"/> <img src="assets/especialidades/Sango_Pearl.png" width="24"/> <img src="assets/especialidades/Sakura_Bloom.png" width="24"/> |
+| <img src="assets/chars/lyney.png" width="32"/><br/>Lyney | 5★ | Fontaine | <img src="assets/especialidades/Romaritime_Flower.png" width="24"/> <img src="assets/especialidades/Lumidouce_Bell.png" width="24"/> <img src="assets/especialidades/Rainbow_Rose.png" width="24"/> <img src="assets/especialidades/Lumitoile.png" width="24"/> <img src="assets/especialidades/Subdetection_Unit.png" width="24"/> <img src="assets/especialidades/Lakelight_Lily.png" width="24"/> <img src="assets/especialidades/Beryl_Conch.png" width="24"/> <img src="assets/especialidades/Spring_of_the_First_Dewdrop.png" width="24"/> |
+| <img src="assets/chars/clorinde.png" width="32"/><br/>Clorinde | 5★ | Fontaine | <img src="assets/especialidades/Romaritime_Flower.png" width="24"/> <img src="assets/especialidades/Lumidouce_Bell.png" width="24"/> <img src="assets/especialidades/Rainbow_Rose.png" width="24"/> <img src="assets/especialidades/Lumitoile.png" width="24"/> <img src="assets/especialidades/Subdetection_Unit.png" width="24"/> <img src="assets/especialidades/Lakelight_Lily.png" width="24"/> <img src="assets/especialidades/Beryl_Conch.png" width="24"/> <img src="assets/especialidades/Spring_of_the_First_Dewdrop.png" width="24"/> |
+
+</details>
+
+---
+
+## 🤝 Créditos
+
+- **Colaboradores:** [@gabszap](https://github.com/gabszap), [@marcoshsw](https://github.com/marcoshsw), [@termux](https://github.com/termuxcay)
+- **Banner:** [@marcoshsw](https://github.com/marcoshsw)
+- **Fontes:** [Thafoxes](https://github.com/Thafoxes/Json_Integration/tree/upstream/eng-translate), [Minato-jsons](https://github.com/Minato0211/minato-jsons)
+
+<p align="right"><a href="#-sumário">⬆ Voltar ao Topo</a></p>
+
+---
+
+<div align="center">
+  <p>Boa exploração, Viajante! 🚪✨</p>
+</div>
