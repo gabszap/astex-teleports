@@ -66,8 +66,8 @@ Para encontrar rapidamente o que precisa:
 | <img src="assets/icons/Fontaine.png" width="30"/> | Fontaine | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Fontaine%204.0-4.6.rar?raw=true) |
 | <img src="assets/icons/Enkanomiya.png" width="30"/> | Enkanomiya | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Enkanomiya%20(desbloquear%20primeiro).rar?raw=true) |
 | <img src="assets/icons/Dragonspine.png" width="30"/> | Espinha do Dragão | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Dragonspine.rar?raw=true) |
-| <img src="assets/icons/Chasm.png" width="30"/> | Despenhadeiro | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Despenhadeiro.rar?raw=true) |
-| <img src="assets/icons/Chasm.png" width="30"/> | Despenhadeiro: Subterrâneo | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Minas%20subterraneas%20(despenhadeiro).rar?raw=true) |
+| <img src="assets/icons/chasm.png" width="30"/> | Despenhadeiro | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Despenhadeiro.rar?raw=true) |
+| <img src="assets/icons/chasm.png" width="30"/> | Despenhadeiro: Subterrâneo | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Minas%20subterraneas%20(despenhadeiro).rar?raw=true) |
 | <img src="assets/icons/Vale_Chenyu.png" width="30"/> | Vale Chenyu | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Vale%20Chenyu.rar?raw=true) |
 | <img src="assets/icons/Natlan.png" width="30"/> | Natlan | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Natlan.rar?raw=true) |
 
@@ -76,6 +76,7 @@ Para encontrar rapidamente o que precisa:
 ---
 
 ## 🌱 Farming
+### Oculi
 
 > **Nota**: Em *Genshin Impact* 5.6, há **222 pyroculus** em Natlan, permitindo deixar a Estátua dos Sete no nível 8 com 30/38 coletados. Na Espinha do Dragão, a Calcedônia Carmesim alcança o nível 8; os extras são obtidos em missões a cada 3 dias.
 
@@ -92,7 +93,7 @@ Para encontrar rapidamente o que precisa:
 | <img src="assets/Lumenspar.png" width="30"/> | Minério Lúmen | Despenhadeiro: Subterrâneo | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/MinerioLumen.rar) |
 | <img src="assets/KeySigil.png" width="30"/> | Padrões de Chave | Enkanomiya | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/Padr%C3%B5es%20de%20chave.rar) |
 | <img src="assets/SacredSeal.png" width="30"/> | Selo Sagrado | Sumeru: Deserto | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/Selo%20Sagrado.rar) |
-| <img src="assets/spirit_carp.png" width="30"/> | Carpa Espiritual | Vale Chenyu | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/Carpa_Espiritual.rar) |
+| <img src="assets/Spirit_Carp.png" width="30"/> | Carpa Espiritual | Vale Chenyu | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/Carpa_Espiritual.rar) |
 
 > **Observações**:
 > - **Minério Lúmen**: Usado para aumentar o nível da Lanterna Lúmen.
@@ -112,7 +113,7 @@ Farme especialidades regionais para ascensão de personagens e missões.
 | <img src="assets/especialidades/Calla_Lily.png" width="30"/> | Lótus de Leite | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Calla_Lily.rar) |
 | <img src="assets/especialidades/Cecilia.png" width="30"/> | Cecília | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Cecilia.rar) |
 | <img src="assets/especialidades/Dandelion_Seed.png" width="30"/> | Semente de Dandelion | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Dandelion_Seed.rar) |
-| <img src="assets/especialidades/Philanemo_Mushroom.png" width="30"/> | Cogumelo Philanemo | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Philanemo_Mushroom.rar) |
+| <img src="assets/especialidades/Philanemo_Mushroom.png" width="30"/> | Cogumelo Philanemo | [Download](https://github.com/Gabriel4927/json-paradise/rawmain/download/Especialidades/Philanemo_Mushroom.rar) |
 | <img src="assets/especialidades/Small_Lamp_Grass.png" width="30"/> | Lâmpada de Grama | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Small_Lamp_Grass.rar) |
 | <img src="assets/especialidades/Valberry.png" width="30"/> | Valberry | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Valberry.rar) |
 | <img src="assets/especialidades/Windwheel_Aster.png" width="30"/> | Margaridas Voadoras | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Windwheel_Aster.rar) |
@@ -131,8 +132,8 @@ Farme especialidades regionais para ascensão de personagens e missões.
 | <img src="assets/especialidades/Noctilucous_Jade.png" width="30"/> | Jade Noctilucosa | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Noctilucous_Jade.rar) |
 | <img src="assets/especialidades/Qingxin.png" width="30"/> | Qingxin | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Qingxin.rar) |
 | <img src="assets/especialidades/Silk_Flower.png" width="30"/> | Flor de Seda | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Silk_Flower.rar) |
-| <img src="assets/especialidades/Starconch.png" width="30"/> | Concha Estrelada | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Starconch.rar) |
-| <img src="assets/especialidades/Violetgrass.png" width="30"/> | Violeta | [Download](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Violetgrass.rar) |
+| <img src="assets/especialidades/Starconch.png" width="30"/> | Concha Estrelada | [Download](https://github.com/Gabriel4927/json-paradise/rawmain/download/Especialidades/Starconch.rar) |
+| <img src="assets/especialidades/Violetgrass.png" width="30"/> | Violeta | [Download](https://github.com/Gabriel4927/json-paradise/rawmain/download/Especialidades/Violetgrass.rar) |
 </details>
 
 <details>
@@ -204,8 +205,7 @@ Farme especialidades regionais para ascensão de personagens e missões.
 
 ## 🎯 Bônus de Personagens
 
-Alguns personagens possuem talentos que destacam especialidades regionais no minimapa com um **ícone de mão** 
-<img src="assets/icons/hand_icon.png" width="15"/>
+Alguns personagens mostram especialidades no minimapa com um **ícone de mão** <img src="assets/icons/hand_icon.png" width="15"/>
 
 | Personagem | Raridade | Região   | Especialidades Locais |
 |:----------:|:--------:|:--------:|:---------------------:|
