@@ -1,2 +1,7 @@
-webp_png.py
-download_speciality.py
+*.py
+*.bat
+.venv/
+*.js
+thafoxes-json-integration/
+minato-jsons/
+*.json

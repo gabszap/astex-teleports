@@ -57,6 +57,8 @@ Para encontrar rapidamente o que precisa:
 ## 🗺️ Exploração
 
 ### Baús
+> ⚠️ **Nota:** A lista de baús não é 100% precisa! Pode ter baú faltando, repetido ou até algum errado. 
+
 | Ícone | Região | Download |
 |-------|--------|----------|
 | <img src="assets/icons/Mondstadt.png" width="30"/> | Mondstadt | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Mondstadt.rar?raw=true) |
