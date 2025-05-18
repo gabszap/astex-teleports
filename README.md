@@ -15,7 +15,7 @@
     <img alt="Português" src="https://img.shields.io/badge/pt--br-Português-green?style=flat-square">
   </a>
   <a href="docs/readme_EN.md">
-    <img alt="English" src="https://img.shields.io/badge/en-English(soon)-blue?style=flat-square">
+    <img alt="English" src="https://img.shields.io/badge/en-English-blue?style=flat-square">
   </a>
 </p>
 
@@ -66,12 +66,12 @@ Para encontrar rapidamente o que precisa:
 | <img src="assets/icons/Inazuma.png" width="30"/> | Inazuma | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Inazuma.rar?raw=true) |
 | <img src="assets/icons/Sumeru.png" width="30"/> | Sumeru | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Sumeru.rar?raw=true) |
 | <img src="assets/icons/Fontaine.png" width="30"/> | Fontaine | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Fontaine%204.0-4.6.rar?raw=true) |
+| <img src="assets/icons/Natlan.png" width="30"/> | Natlan | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Natlan.rar?raw=true) |
 | <img src="assets/icons/Enkanomiya.png" width="30"/> | Enkanomiya | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Enkanomiya%20(desbloquear%20primeiro).rar?raw=true) |
 | <img src="assets/icons/Dragonspine.png" width="30"/> | Espinha do Dragão | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Dragonspine.rar?raw=true) |
 | <img src="assets/icons/chasm.png" width="30"/> | Despenhadeiro | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Despenhadeiro.rar?raw=true) |
 | <img src="assets/icons/chasm.png" width="30"/> | Despenhadeiro: Subterrâneo | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Minas%20subterraneas%20(despenhadeiro).rar?raw=true) |
 | <img src="assets/icons/Vale_Chenyu.png" width="30"/> | Vale Chenyu | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Vale%20Chenyu.rar?raw=true) |
-| <img src="assets/icons/Natlan.png" width="30"/> | Natlan | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Natlan.rar?raw=true) |
 
 <p align="right"><a href="#-sumário">⬆ Voltar ao Topo</a></p>
 
