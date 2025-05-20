@@ -73,7 +73,7 @@ To quickly find what you need:
 | <img src="../assets/icons/Dragonspine.png" width="30"/> | Dragonspine | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Dragonspine.rar?raw=true) |
 | <img src="../assets/icons/chasm.png" width="30"/> | The Chasm | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Despenhadeiro.rar?raw=true) |
 | <img src="../assets/icons/chasm.png" width="30"/> | The Chasm: Underground | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Minas%20subterraneas%20(despenhadeiro).rar?raw=true) |
-| <img src="../assets/icons/Vale_Chenyu.png" width="30"/> | Chenyu Vale | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Vale%20Chenyu.rar?raw=true) |
+| <img src="../assets/icons/ChenyuVale.png" width="30"/> | Chenyu Vale | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Vale%20Chenyu.rar?raw=true) |
 
 <p align="right"><a href="#-table-of-contents">⬆ Back to Top</a></p>
 
@@ -92,11 +92,11 @@ To quickly find what you need:
 | <img src="../assets/Dendroculus.png" width="30"/> | Dendroculus | Sumeru | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Dendroculus.rar) |
 | <img src="../assets/Hydroculus.png" width="30"/> | Hydroculus | Fontaine | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/Hydroculus.rar) |
 | <img src="../assets/Pyroculus.png" width="30"/> | Pyroculus | Natlan | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/Pyroculus.rar) |
-| <img src="../assets/CrimsonAgate.png" width="30"/> | Crimson Agate	 | Dragonspine | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/blob/main/download/CalcedoniaCarmesim.rar) |
+| <img src="../assets/Crimson_Agate.png" width="30"/> | Crimson Agate	 | Dragonspine | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/blob/main/download/CalcedoniaCarmesim.rar) |
 | <img src="../assets/Lumenspar.png" width="30"/> | Lumenspar | The Chasm: Underground | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/EspatoLumen.rar) |
 | <img src="../assets/Lumenspar.png" width="30"/> | Lumenstone Ore | The Chasm: Underground | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/MinerioLumen.rar) |
-| <img src="../assets/KeySigil.png" width="30"/> | Key Sigils | Enkanomiya | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/Padr%C3%B5es%20de%20chave.rar) |
-| <img src="../assets/SacredSeal.png" width="30"/> | Sacred Seal | Sumeru: Desert | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/Selo%20Sagrado.rar) |
+| <img src="../assets/Key_Sigil.png" width="30"/> | Key Sigils | Enkanomiya | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/Padr%C3%B5es%20de%20chave.rar) |
+| <img src="../assets/Sacred_Seal.png" width="30"/> | Sacred Seal | Sumeru: Desert | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/Selo%20Sagrado.rar) |
 | <img src="../assets/Spirit_Carp.png" width="30"/> | Spirit Carp | Chenyu Vale | [Download](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/Carpa_Espiritual.rar) |
 
 > **Notes**:
