@@ -5,7 +5,7 @@
   </p>
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gabszap/astex-teleports?style=for-the-badge">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/gabszap/astex-teleports?style=for-the-badge&color=yellow">
-    <a href="https://discord.gg/akebi"><img alt="Discord" src="https://img.shields.io/discord/742837422319992924?label=Discord&logo=discord&style=for-the-badge&color=5865F2&logoColor=white"></a>
+    <a href="https://discord.gg/zDCvwFuBu7"><img alt="Discord" src="https://img.shields.io/discord/742837422319992924?label=Discord&logo=discord&style=for-the-badge&color=5865F2&logoColor=white"></a>
     <!-- <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgabszap%2Fastex-teleports"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgabszap%2Fastex-teleports&label=Visitantes&labelColor=%23697689&countColor=%23dce775"></a> -->
 </div>
 
@@ -20,6 +20,8 @@
 </p>
 
 ---
+> ⚠️ **Atenção:** Se você utiliza o Unicore, confira a branch [`unicore`](https://github.com/gabszap/astex-teleports/tree/unicore) para arquivos compatíveis.
+---
 
 ## 📜 Sumário
 
@@ -28,6 +30,7 @@
 - [Sobre](#-sobre)
 - [Status da Tradução](#-status-da-tradução)
 - [Como Pesquisar](#-como-pesquisar)
+- [Como Baixar o Repositório](#-como-baixar-o-repositório)
 - [Exploração](#-exploração)
   - [Baús](#baús)
 - [Farming](#-farming)
@@ -43,7 +46,7 @@
 
 ---
 ## 🌍 Sobre
-Astex Teleports é um projeto voltado para a comunidade de *Genshin Impact*, criado para simplificar sua jogatina. Este guia oferece teleportes para reduzir rotas repetitivas, ajudando você a farmar com eficiência e explorar com facilidade.
+Astex Teleports é um projeto que visa traduzir e disponibilizar teleportes para quem utiliza Akebi ou Unicore no *Genshin Impact*. O objetivo é facilitar a exploração e o farm, reduzindo rotas repetitivas e tornando a experiência mais acessível para a comunidade.
 
 ## 🌐 Status da Tradução
 
@@ -57,6 +60,34 @@ Para encontrar rapidamente o que precisa:
 3. Para melhores resultados, evite hífens (ex.: pesquise `doce` em vez de `flor-doce`).
 
 > 💡 **Dica**: Use palavras-chave simples como `baú`, `oculus` ou `especialidade` para resultados mais rápidos.
+---
+
+## ⬇️ Como Baixar o Repositório
+
+Você pode baixar este repositório de duas formas:
+
+### 1. Download Manual (ZIP)
+
+1. Clique em **Code** no topo da página do GitHub.
+2. Selecione **Download ZIP**.
+3. Extraia o arquivo ZIP em seu computador.  
+  > 💡 Recomendo usar o [7-Zip](https://www.7-zip.org/a/7z2501-x64.exe) para extrair os arquivos, pois ele lida melhor com arquivos grandes do que o WinRAR.
+
+### 2. Usando Git (Recomendado)
+
+Se você tem o [Git](https://git-scm.com/) instalado:
+
+```bash
+git clone https://github.com/gabszap/astex-teleports.git
+```
+
+Isso irá criar uma pasta chamada `astex-teleports` com todos os arquivos do projeto.
+
+> **Vantagem:** Com o Git, você não precisa baixar tudo de novo quando houver atualizações. Basta rodar o comando abaixo dentro da pasta do projeto para pegar os últimos updates:
+
+```bash
+git pull
+```
 
 ---
 
@@ -73,11 +104,14 @@ Para encontrar rapidamente o que precisa:
 | <img src="assets/icons/Sumeru.png" width="30"/> | Sumeru | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Sumeru.rar?raw=true) |
 | <img src="assets/icons/Fontaine.png" width="30"/> | Fontaine | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Fontaine%204.0-4.6.rar?raw=true) |
 | <img src="assets/icons/Natlan.png" width="30"/> | Natlan | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Natlan.rar?raw=true) |
+| <img src="assets/icons/unknown.png" width="30"/> | Nod Krai | Em Breve |
 | <img src="assets/icons/Enkanomiya.png" width="30"/> | Enkanomiya | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Enkanomiya%20(desbloquear%20primeiro).rar?raw=true) |
 | <img src="assets/icons/Dragonspine.png" width="30"/> | Espinha do Dragão | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Dragonspine.rar?raw=true) |
 | <img src="assets/icons/chasm.png" width="30"/> | Despenhadeiro | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Despenhadeiro.rar?raw=true) |
 | <img src="assets/icons/chasm.png" width="30"/> | Despenhadeiro: Subterrâneo | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Minas%20subterraneas%20(despenhadeiro).rar?raw=true) |
 | <img src="assets/icons/ChenyuVale.png" width="30"/> | Vale Chenyu | [Download](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Vale%20Chenyu.rar?raw=true) |
+| <img src="assets/icons/ancient-sea.png" width="30"/> | Mar Antigo | [Download](#) |
+| <img src="assets/icons/ancient_sacred_mountain.png" width="30"/> | Montanha Sagrada Antiga | [Download](#) |
 
 <p align="right"><a href="#-sumário">⬆ Voltar ao Topo</a></p>
 
@@ -86,7 +120,7 @@ Para encontrar rapidamente o que precisa:
 ## 🌱 Farming
 ### Oculi
 
-> **Nota**: Em *Genshin Impact* 5.6, há **222 pyroculus** em Natlan, permitindo deixar a Estátua dos Sete no nível 8 com 30/38 coletados. Na Espinha do Dragão, a Calcedônia Carmesim alcança o nível 8; os extras são obtidos em missões a cada 3 dias.
+> **Nota**: Na Espinha do Dragão, a árvore alcança o nível 8; os extras são obtidos em missões a cada 3 dias.
 
 | Ícone | Nome | Região | Download |
 |-------|------|--------|----------|
@@ -228,8 +262,7 @@ Alguns personagens mostram especialidades no minimapa com um **ícone de mão** 
 | <img src="assets/chars/Yanfei.png" width="32"/><br/>Yanfei | 4★ | Liyue | <img src="assets/especialidades/Cor_Lapis.png" width="24"/> <img src="assets/especialidades/Silk_Flower.png" width="24"/> <img src="assets/especialidades/Noctilucous_Jade.png" width="24"/> <img src="assets/especialidades/Glaze_Lily.png" width="24"/> <img src="assets/especialidades/Jueyun_Chili.png" width="24"/> <img src="assets/especialidades/Qingxin.png" width="24"/> <img src="assets/especialidades/Violetgrass.png" width="24"/> <img src="assets/especialidades/Starconch.png" width="24"/> <img src="assets/especialidades/Clearwater_Jade.png" width="24"/> |
 | <img src="assets/chars/Gorou.png" width="32"/><br/>Gorou | 4★ | Inazuma | <img src="assets/especialidades/Dendrobium.png" width="24"/> <img src="assets/especialidades/Naku_Weed.png" width="24"/> <img src="assets/especialidades/Amakumo_Fruit.png" width="24"/> <img src="assets/especialidades/Fluorescent_Fungus.png" width="24"/> <img src="assets/especialidades/Sea_Ganoderma.png" width="24"/> <img src="assets/especialidades/Crystal_Marrow.png" width="24"/> <img src="assets/especialidades/Onikabuto.png" width="24"/> <img src="assets/especialidades/Sango_Pearl.png" width="24"/> <img src="assets/especialidades/Sakura_Bloom.png" width="24"/> |
 | <img src="assets/chars/Lyney.png" width="32"/><br/>Lyney | 5★ | Fontaine | <img src="assets/especialidades/Romaritime_Flower.png" width="24"/> <img src="assets/especialidades/Lumidouce_Bell.png" width="24"/> <img src="assets/especialidades/Rainbow_Rose.png" width="24"/> <img src="assets/especialidades/Lumitoile.png" width="24"/> <img src="assets/especialidades/Subdetection_Unit.png" width="24"/> <img src="assets/especialidades/Lakelight_Lily.png" width="24"/> <img src="assets/especialidades/Beryl_Conch.png" width="24"/> <img src="assets/especialidades/Spring_of_the_First_Dewdrop.png" width="24"/> |
-| <img src="assets/chars/Clorinde.png" width="32"/><br/>Clorinde | 5★ | Fontaine | <img src="assets/especialidades/Romaritime_Flower.png" width="24"/> <img src="assets/especialidades/Lumidouce_Bell.png" width="24"/> <img src="assets/especialidades/Rainbow_Rose.png" width="24"/> <img src="assets/especialidades/Lumitoile.png" width="24"/> <img src="assets/especialidades/Subdetection_Unit.png" width="24"/> <img src="assets/especialidades/Lakelight_Lily.png" width="24"/> <img src="assets/especialidades/Beryl_Conch.png" width="24"/> <img src="assets/especialidades/Spring_of_the_First_Dewdrop.png" width="24"/> |
-
+| <img src="assets/chars/Clorinde.png" width="32"/><br/>Clorinde | 5★ | Fontaine | <img src="assets/especialidades/Romaritime_Flower.png" width="24"/> <img src="assets/especialidades/Lumidouce_Bell.png" width="24"/> <img src="assets/especialidades/Rainbow_Rose.png" width="24"/> <img src="assets/especialidades/Lumitoile.png" width="24"/> <img src="assets/especialidades/Subdetection_Unit.png" width="24"/> <img src="assets/especialidades/Lakelight_Lily.png" width="24"/> <img src="assets/especialidades/Beryl_Conch.png" width="24"/> <img src="assets/especialidades/Spring_of_the_First_Dewdrop.png" width="24"/> |  
 </details>
 
 ---
@@ -238,9 +271,18 @@ Alguns personagens mostram especialidades no minimapa com um **ícone de mão** 
 
 - **Colaboradores:** [@gabszap](https://github.com/gabszap), [@marcoshsw](https://github.com/marcoshsw), [@termux](https://github.com/termuxcay)
 - **Banner:** [@marcoshsw](https://github.com/marcoshsw)
-- **Fontes:** [Thafoxes](https://github.com/Thafoxes/Json_Integration/tree/upstream/eng-translate), [Minato-jsons](https://github.com/Minato0211/minato-jsons)
+- **Fontes:** [Thafoxes](https://github.com/Thafoxes/Json_Integration/tree/upstream/eng-translate), [Minato-0211](https://github.com/Minato0211/minato-jsons)
 
 <p align="right"><a href="#-sumário">⬆ Voltar ao Topo</a></p>
+
+---
+<div align="center">
+
+⭐ **Se este projeto te ajudou, não esqueça de deixar uma estrela no repositório!**  
+Isso motiva a continuar atualizando e melhorando o conteúdo.  
+Basta clicar em "Star" no topo da página! ⭐
+
+</div>
 
 ---
 
