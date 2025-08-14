@@ -1,8 +1,4 @@
 *.py
 *.bat
-.venv/
+venv/
 *.js
-thafoxes-json-integration/
-minato-jsons/
-*.json
-/download/
