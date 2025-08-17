@@ -9,24 +9,6 @@
     <!-- <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgabszap%2Fastex-teleports"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgabszap%2Fastex-teleports&label=Visitantes&labelColor=%23697689&countColor=%23dce775"></a> -->
 </div>
 
-<p align="center">
-  <b>Este readme está disponível em:</b><br>
-  <a href="README.md">
-    <img alt="Português" src="https://img.shields.io/badge/pt--br-Português-green?style=flat-square">
-  </a>
-  <a href="docs/readme_EN.md">
-    <img alt="English" src="https://img.shields.io/badge/en-English-blue?style=flat-square">
-  </a>
-</p>
-
-<div align="center">
-
-⭐ **Se este projeto te ajudou, não esqueça de deixar uma estrela no repositório!**  
-Isso motiva a continuar atualizando e melhorando o conteúdo.  
-Basta clicar em "Star" no topo da página! ⭐
-
-</div>
-
 ---
 > ⚠️ **Atenção:** Se você utiliza o Unicore, confira a branch [`unicore`](https://github.com/gabszap/astex-teleports/tree/unicore) para arquivos compatíveis.
 ---
@@ -58,7 +40,7 @@ Astex Teleports é um projeto que visa traduzir e disponibilizar teleportes para
 
 ## 🌐 Status da Tradução
 
-> Atualmente, **somente os Baús e os Oculi estão traduzidos**. O restante do conteúdo ainda está em inglês ou aguardando tradução.
+> Atualmente, **somente os Baús e os Oculi estão traduzidos**. O restante do conteúdo ainda está em inglês.
 ---
 
 ## 🔍 Como Pesquisar
@@ -100,6 +82,15 @@ git pull
 ---
 
 ## 🗺️ Exploração
+
+### 🚀 Em Alta
+
+> Confira os teleportes mais acessados pela comunidade!
+
+| Ícone | Nome | Região | Download |
+|-------|------|--------|----------|
+| <img src="assets/icons/ancient_sacred_mountain.png" width="30"/> | Montanha Sagrada Antiga | Natlan | [Download](#) |
+| <img src="assets/Pyroculus.png" width="30"/> | Pyroculus | Natlan | [Download](#) |
 
 ### Baús
 > ⚠️ **Nota:** A lista de baús não é 100% precisa! Pode ter baú faltando, repetido ou até algum errado. 
@@ -282,6 +273,14 @@ Alguns personagens mostram especialidades no minimapa com um **ícone de mão** 
 - **Fontes:** [Thafoxes](https://github.com/Thafoxes/Json_Integration/tree/upstream/eng-translate), [Minato-0211](https://github.com/Minato0211/minato-jsons)
 
 <p align="right"><a href="#-sumário">⬆ Voltar ao Topo</a></p>
+
+
+<div align="center">
+
+> ⭐ **Se este projeto foi útil para você, considere deixar uma estrela no repositório!**  
+> Seu apoio é fundamental para que o conteúdo continue sendo atualizado e aprimorado.  
+> <br>
+> <strong>Para apoiar, basta clicar em <kbd>Star</kbd> no topo da página! ⭐</strong>
 
 ---
 <div align="center">

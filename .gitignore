@@ -1,3 +1,4 @@
 *.py
 *.js
 venv/
+__pycache__/
