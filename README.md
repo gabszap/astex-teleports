@@ -89,28 +89,28 @@ git pull
 
 | Ícone | Nome | Região | Download |
 |-------|------|--------|----------|
-| <img src="assets/icons/ancient_sacred_mountain.png" width="30"/> | Montanha Sagrada Antiga | Natlan | [Download](#) |
-| <img src="assets/Pyroculus.png" width="30"/> | Pyroculus | Natlan | [Download](#) |
+| <img src="assets/icons/ancient_sacred_mountain.png" width="30"/> | Montanha Sagrada Antiga | Natlan | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/baus/Montanha%20sagrada.7z) |
+| <img src="assets/Pyroculus.png" width="30"/> | Pyroculus | Natlan | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/oculis/Pyroculus.7z) |
 
 ### Baús
 > ⚠️ **Nota:** A lista de baús não é 100% precisa! Pode ter baú faltando, repetido ou até algum errado. 
 
 | Ícone | Região | Download |
 |-------|--------|----------|
-| <img src="assets/icons/Mondstadt.png" width="30"/> | Mondstadt | [Download](#) |
-| <img src="assets/icons/Liyue.png" width="30"/> | Liyue | [Download](#) |
-| <img src="assets/icons/Inazuma.png" width="30"/> | Inazuma | [Download](#) |
-| <img src="assets/icons/Sumeru.png" width="30"/> | Sumeru | [Download](#) |
-| <img src="assets/icons/Fontaine.png" width="30"/> | Fontaine | [Download](#) |
-| <img src="assets/icons/Natlan.png" width="30"/> | Natlan | [Download](#) |
+| <img src="assets/icons/Mondstadt.png" width="30"/> | Mondstadt | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/baus/Mondstadt.7z) |
+| <img src="assets/icons/Liyue.png" width="30"/> | Liyue | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/baus/Liyue.7z) |
+| <img src="assets/icons/Inazuma.png" width="30"/> | Inazuma | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/baus/Inazuma.7z) |
+| <img src="assets/icons/Sumeru.png" width="30"/> | Sumeru | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/baus/Sumeru.7z) |
+| <img src="assets/icons/Fontaine.png" width="30"/> | Fontaine | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/baus/Fontaine.7z) |
+| <img src="assets/icons/Natlan.png" width="30"/> | Natlan | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/baus/Natlan.7z) |
 | <img src="assets/icons/unknown.png" width="30"/> | Nod Krai | Em Breve |
-| <img src="assets/icons/Enkanomiya.png" width="30"/> | Enkanomiya | [Download](#) |
-| <img src="assets/icons/Dragonspine.png" width="30"/> | Espinha do Dragão | [Download](#) |
-| <img src="assets/icons/chasm.png" width="30"/> | Despenhadeiro | [Download](#) |
-| <img src="assets/icons/chasm.png" width="30"/> | Despenhadeiro: Subterrâneo | [Download](#) |
-| <img src="assets/icons/ChenyuVale.png" width="30"/> | Vale Chenyu | [Download](#) |
-| <img src="assets/icons/ancient-sea.png" width="30"/> | Mar Antigo | [Download](#) |
-| <img src="assets/icons/ancient_sacred_mountain.png" width="30"/> | Montanha Sagrada Antiga | [Download](#) |
+| <img src="assets/icons/Enkanomiya.png" width="30"/> | Enkanomiya | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/baus/Enkanomiya%20(desbloquear%20primeiro).7z) |
+| <img src="assets/icons/Dragonspine.png" width="30"/> | Espinha do Dragão | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/baus/Espinha%20do%20Drag%C3%A3o.7z) |
+| <img src="assets/icons/chasm.png" width="30"/> | Despenhadeiro | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/baus/Despenhadeiro.7z) |
+| <img src="assets/icons/chasm.png" width="30"/> | Despenhadeiro: Subterrâneo | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/baus/Minas%20subterraneas%20(despenhadeiro).7z) |
+| <img src="assets/icons/ChenyuVale.png" width="30"/> | Vale Chenyu | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/baus/Vale%20Chenyu.7z) |
+| <img src="assets/icons/ancient-sea.png" width="30"/> | Mar Antigo | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/baus/Mar%20Antigo.7z) |
+| <img src="assets/icons/ancient_sacred_mountain.png" width="30"/> | Montanha Sagrada Antiga | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/baus/Montanha%20sagrada.7z) |
 
 <p align="right"><a href="#-sumário">⬆ Voltar ao Topo</a></p>
 
@@ -123,18 +123,18 @@ git pull
 
 | Ícone | Nome | Região | Download |
 |-------|------|--------|----------|
-| <img src="assets/Anemoculus.png" width="30"/> | Anemoculus | Mondstadt | [Download](#) |
-| <img src="assets/Geoculus.png" width="30"/> | Geoculus | Liyue | [Download](#) |
-| <img src="assets/Electroculus.png" width="30"/> | Electroculus | Inazuma | [Download](#) |
-| <img src="assets/Dendroculus.png" width="30"/> | Dendroculus | Sumeru | [Download](#) |
-| <img src="assets/Hydroculus.png" width="30"/> | Hydroculus | Fontaine | [Download](#) |
-| <img src="assets/Pyroculus.png" width="30"/> | Pyroculus | Natlan | [Download](#) |
-| <img src="assets/Crimson_Agate.png" width="30"/> | Calcedônia Carmesim	 | Espinha do Dragão | [Download](#) |
-| <img src="assets/Lumenspar.png" width="30"/> | Espato Lúmen | Despenhadeiro: Subterrâneo | [Download](#) |
-| <img src="assets/Lumenspar.png" width="30"/> | Minério Lúmen | Despenhadeiro: Subterrâneo | [Download](#) |
-| <img src="assets/Key_Sigil.png" width="30"/> | Padrões de Chave | Enkanomiya | [Download](#) |
-| <img src="assets/Sacred_Seal.png" width="30"/> | Selo Sagrado | Sumeru: Deserto | [Download](#) |
-| <img src="assets/Spirit_Carp.png" width="30"/> | Carpa Espiritual | Vale Chenyu | [Download](#) |
+| <img src="assets/Anemoculus.png" width="30"/> | Anemoculus | Mondstadt | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/oculis/Anemoculus.7z) |
+| <img src="assets/Geoculus.png" width="30"/> | Geoculus | Liyue | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/oculis/Geoculus.7z) |
+| <img src="assets/Electroculus.png" width="30"/> | Electroculus | Inazuma | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/oculis/Electroculus.7z) |
+| <img src="assets/Dendroculus.png" width="30"/> | Dendroculus | Sumeru | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/oculis/Dendroculus.7z) |
+| <img src="assets/Hydroculus.png" width="30"/> | Hydroculus | Fontaine | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/oculis/Hydroculos.7z) |
+| <img src="assets/Pyroculus.png" width="30"/> | Pyroculus | Natlan | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/oculis/Pyroculus.7z) |
+| <img src="assets/Crimson_Agate.png" width="30"/> | Calcedônia Carmesim	 | Espinha do Dragão | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/oculis/CalcedoniaCarmesim.7z) |
+| <img src="assets/Lumenspar.png" width="30"/> | Espato Lúmen | Despenhadeiro: Subterrâneo | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/oculis/EspatoLumen.7z) |
+| <img src="assets/Lumenspar.png" width="30"/> | Minério Lúmen | Despenhadeiro: Subterrâneo | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/oculis/MinerioLumen.7z) |
+| <img src="assets/Key_Sigil.png" width="30"/> | Padrões de Chave | Enkanomiya | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/oculis/Padr%C3%B5es%20de%20chave.7z) |
+| <img src="assets/Sacred_Seal.png" width="30"/> | Selo Sagrado | Sumeru: Deserto | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/oculis/Selo%20Sagrado.7z) |
+| <img src="assets/Spirit_Carp.png" width="30"/> | Carpa Espiritual | Vale Chenyu | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/oculis/Carpa%20Espiritual.7z) |
 
 > **Observações**:
 > - **Minério Lúmen**: Usado para aumentar o nível da Lanterna Lúmen.
