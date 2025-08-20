@@ -3,7 +3,7 @@
   <img src="https://files.catbox.moe/0h1v7c.png" width="800"/>
   <p>Uma coleção de teleportes para <em>Genshin Impact</em> para otimizar rotas, economizar tempo e melhorar sua experiência de jogo.
   </p>
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gabszap/astex-teleports?style=for-the-badge">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gabszap/astex-teleports?style=for-the-badge&logo=github&labelColor=black">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/gabszap/astex-teleports?style=for-the-badge&color=yellow">
     <a href="https://discord.gg/zDCvwFuBu7"><img alt="Discord" src="https://img.shields.io/discord/742837422319992924?label=Discord&logo=discord&style=for-the-badge&color=5865F2&logoColor=white"></a>
     <!-- <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgabszap%2Fastex-teleports"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgabszap%2Fastex-teleports&label=Visitantes&labelColor=%23697689&countColor=%23dce775"></a> -->
