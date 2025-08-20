@@ -151,14 +151,14 @@ Farme especialidades regionais para ascensão de personagens e missões.
 
 | Ícone | Nome | Download |
 |-------|------|----------|
-| <img src="assets/especialidades/Calla_Lily.png" width="30"/> | Lótus de Leite | [Download](#) |
-| <img src="assets/especialidades/Cecilia.png" width="30"/> | Cecília | [Download](#) |
-| <img src="assets/especialidades/Dandelion_Seed.png" width="30"/> | Semente de Dandelion | [Download](#) |
-| <img src="assets/especialidades/Philanemo_Mushroom.png" width="30"/> | Cogumelo Philanemo | [Download](#) |
-| <img src="assets/especialidades/Small_Lamp_Grass.png" width="30"/> | Lâmpada de Grama | [Download](#) |
-| <img src="assets/especialidades/Valberry.png" width="30"/> | Valberry | [Download](#) |
-| <img src="assets/especialidades/Windwheel_Aster.png" width="30"/> | Margaridas Voadoras | [Download](#) |
-| <img src="assets/especialidades/Wolfhook.png" width="30"/> | Gancho do Lobo | [Download](#) |
+| <img src="assets/especialidades/Calla_Lily.png" width="30"/> | Lótus de Leite | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Lótus%20de%20Leite.7z) |
+| <img src="assets/especialidades/Cecilia.png" width="30"/> | Cecília | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Cecília.7z) |
+| <img src="assets/especialidades/Dandelion_Seed.png" width="30"/> | Semente de Dandelion | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Sementes%20de%20Dandelion.7z) |
+| <img src="assets/especialidades/Philanemo_Mushroom.png" width="30"/> | Cogumelo Philanemo | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Cogumelo%20Philanemo.7z) |
+| <img src="assets/especialidades/Small_Lamp_Grass.png" width="30"/> | Lâmpada de Grama | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Lâmpada%20de%20Grama.7z) |
+| <img src="assets/especialidades/Valberry.png" width="30"/> | Valberry | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Valberry.7z) |
+| <img src="assets/especialidades/Windwheel_Aster.png" width="30"/> | Margaridas Voadoras | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Margaridas%20Voadoras.7z) |
+| <img src="assets/especialidades/Wolfhook.png" width="30"/> | Gancho do Lobo | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Gancho%20do%20Lobo.7z) |
 </details>
 
 <details>
@@ -166,15 +166,15 @@ Farme especialidades regionais para ascensão de personagens e missões.
 
 | Ícone | Nome | Download |
 |-------|------|----------|
-| <img src="assets/especialidades/Clearwater_Jade.png" width="30"/> | Jade Cristalino | [Download](#) |
-| <img src="assets/especialidades/Cor_Lapis.png" width="30"/> | Cor Lapis | [Download](#) |
-| <img src="assets/especialidades/Glaze_Lily.png" width="30"/> | Lírio de Vidro | [Download](#) |
-| <img src="assets/especialidades/Jueyun_Chili.png" width="30"/> | Pimenta de Jueyun | [Download](#) |
-| <img src="assets/especialidades/Noctilucous_Jade.png" width="30"/> | Jade Noctilucosa | [Download](#) |
-| <img src="assets/especialidades/Qingxin.png" width="30"/> | Qingxin | [Download](#) |
-| <img src="assets/especialidades/Silk_Flower.png" width="30"/> | Flor de Seda | [Download](#) |
-| <img src="assets/especialidades/Starconch.png" width="30"/> | Concha Estrelada | [Download](#) |
-| <img src="assets/especialidades/Violetgrass.png" width="30"/> | Violeta | [Download](#) |
+| <img src="assets/especialidades/Clearwater_Jade.png" width="30"/> | Jade Cristalino | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Jade%20Cristalino.7z) |
+| <img src="assets/especialidades/Cor_Lapis.png" width="30"/> | Cor Lapis | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Cor%20Lapis.7z) |
+| <img src="assets/especialidades/Glaze_Lily.png" width="30"/> | Lírio de Vidro | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Lírio%20de%20Vidro.7z) |
+| <img src="assets/especialidades/Jueyun_Chili.png" width="30"/> | Pimenta de Jueyun | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Pimenta%20de%20Jueyun.7z) |
+| <img src="assets/especialidades/Noctilucous_Jade.png" width="30"/> | Jade Noctilucosa | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Jade%20Nocticulosa.7z) |
+| <img src="assets/especialidades/Qingxin.png" width="30"/> | Qingxin | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Qingxin.7z) |
+| <img src="assets/especialidades/Silk_Flower.png" width="30"/> | Flor de Seda | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Flor%20de%20Seda.7z) |
+| <img src="assets/especialidades/Starconch.png" width="30"/> | Concha Estrelada | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Conchas%20Estreladas.7z) |
+| <img src="assets/especialidades/Violetgrass.png" width="30"/> | Violeta | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Violeta.7z) |
 </details>
 
 <details>
@@ -182,15 +182,15 @@ Farme especialidades regionais para ascensão de personagens e missões.
 
 | Ícone | Nome | Download |
 |-------|------|----------|
-| <img src="assets/especialidades/Amakumo_Fruit.png" width="30"/> | Fruto Amakumo | [Download](#) |
-| <img src="assets/especialidades/Crystal_Marrow.png" width="30"/> | Medula de Cristal | [Download](#) |
-| <img src="assets/especialidades/Dendrobium.png" width="30"/> | Dendróbio | [Download](#) |
-| <img src="assets/especialidades/Fluorescent_Fungus.png" width="30"/> | Cogumelo Fluorescente | [Download](#) |
-| <img src="assets/especialidades/Naku_Weed.png" width="30"/> | Erva Naku | [Download](#) |
-| <img src="assets/especialidades/Onikabuto.png" width="30"/> | Onikabuto | [Download](#) |
-| <img src="assets/especialidades/Sakura_Bloom.png" width="30"/> | Flor de Sakura | [Download](#) |
-| <img src="assets/especialidades/Sango_Pearl.png" width="30"/> | Pérola Sango | [Download](#) |
-| <img src="assets/especialidades/Sea_Ganoderma.png" width="30"/> | Fungos Marítimos | [Download](#) |
+| <img src="assets/especialidades/Amakumo_Fruit.png" width="30"/> | Fruto Amakumo | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Fruto%20Tenkumo.7z) |
+| <img src="assets/especialidades/Crystal_Marrow.png" width="30"/> | Medula de Cristal | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Medula%20de%20Cristal.7z) |
+| <img src="assets/especialidades/Dendrobium.png" width="30"/> | Dendróbio | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Dendróbio.7z) |
+| <img src="assets/especialidades/Fluorescent_Fungus.png" width="30"/> | Cogumelo Fluorescente | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Fungos%20Fluorescentes.7z) |
+| <img src="assets/especialidades/Naku_Weed.png" width="30"/> | Erva Naku | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Erva%20Naku.7z) |
+| <img src="assets/especialidades/Onikabuto.png" width="30"/> | Onikabuto | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Onikabuto.7z) |
+| <img src="assets/especialidades/Sakura_Bloom.png" width="30"/> | Flor de Sakura | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Pétalas%20da%20Flor%20de%20Sakura.7z) |
+| <img src="assets/especialidades/Sango_Pearl.png" width="30"/> | Pérola Sango | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Pérola%20Sango.7z) |
+| <img src="assets/especialidades/Sea_Ganoderma.png" width="30"/> | Fungos Marítimos | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Fungos%20Marítimos.7z) |
 </details>
 
 <details>
@@ -198,15 +198,15 @@ Farme especialidades regionais para ascensão de personagens e missões.
 
 | Ícone | Nome | Download |
 |-------|------|----------|
-| <img src="assets/especialidades/Henna_Berry.png" width="30"/> | Baga de Espinheiro | [Download](#) |
-| <img src="assets/especialidades/Kalpalata_Lotus.png" width="30"/> | Lótus Kalpalata | [Download](#) |
-| <img src="assets/especialidades/Mourning_Flower.png" width="30"/> | Flor do Luto | [Download](#) |
-| <img src="assets/especialidades/Nilotpala_Lotus.png" width="30"/> | Lótus Nilotpala | [Download](#) |
-| <img src="assets/especialidades/Padisarah.png" width="30"/> | Padisarah | [Download](#) |
-| <img src="assets/especialidades/Rukkhashava_Mushrooms.png" width="30"/> | Cogumelo Rukkhashava | [Download](#) |
-| <img src="assets/especialidades/Sand_Grease_Pupa.png" width="30"/> | Pupa de Gordura de Areia | [Download](#) |
-| <img src="assets/especialidades/Scarab.png" width="30"/> | Escaravelho Dourado | [Download](#) |
-| <img src="assets/especialidades/Trishiraite.png" width="30"/> | Trishiraita | [Download](#) |
+| <img src="assets/especialidades/Henna_Berry.png" width="30"/> | Baga de Espinheiro | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Bagas%20de%20Espinheiro.7z) |
+| <img src="assets/especialidades/Kalpalata_Lotus.png" width="30"/> | Lótus Kalpalata | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Lótus%20Kalpalata.7z) |
+| <img src="assets/especialidades/Mourning_Flower.png" width="30"/> | Flor do Luto | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Flor%20do%20Luto.7z) |
+| <img src="assets/especialidades/Nilotpala_Lotus.png" width="30"/> | Lótus Nilotpala | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Lótus%20Nilotpala.7z) |
+| <img src="assets/especialidades/Padisarah.png" width="30"/> | Padisarah | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Padisarah.7z) |
+| <img src="assets/especialidades/Rukkhashava_Mushrooms.png" width="30"/> | Cogumelo Rukkhashava | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Cogumelo%20Rukkhashava.7z) |
+| <img src="assets/especialidades/Sand_Grease_Pupa.png" width="30"/> | Pupa de Gordura de Areia | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Pupa%20de%20Gordura%20de%20Areia.7z) |
+| <img src="assets/especialidades/Scarab.png" width="30"/> | Escaravelho Dourado | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Escaravelho%20Dourado.7z) |
+| <img src="assets/especialidades/Trishiraite.png" width="30"/> | Trishiraite | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Trishiraita.7z) |
 </details>
 
 <details>
@@ -214,14 +214,14 @@ Farme especialidades regionais para ascensão de personagens e missões.
 
 | Ícone | Nome | Download |
 |-------|------|----------|
-| <img src="assets/especialidades/Beryl_Conch.png" width="30"/> | Concha de Cristal Azul | [Download](#) |
-| <img src="assets/especialidades/Lakelight_Lily.png" width="30"/> | Flor da Luz do Lago | [Download](#) |
-| <img src="assets/especialidades/Lumidouce_Bell.png" width="30"/> | Campânula Lumidouce | [Download](#) |
-| <img src="assets/especialidades/Lumitoile.png" width="30"/> | Lumitoile | [Download](#) |
-| <img src="assets/especialidades/Rainbow_Rose.png" width="30"/> | Rosa Arco-Íris | [Download](#) |
-| <img src="assets/especialidades/Romaritime_Flower.png" width="30"/> | Flor Romaritime | [Download](#) |
-| <img src="assets/especialidades/Spring_of_the_First_Dewdrop.png" width="30"/> | Primavera do Primeiro Orvalho | [Download](#) |
-| <img src="assets/especialidades/Subdetection_Unit.png" width="30"/> | Unidade de Subdetecção | [Download](#) |
+| <img src="assets/especialidades/Beryl_Conch.png" width="30"/> | Concha de Cristal Azul | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Concha%20de%20Cristal%20Azul.7z) |
+| <img src="assets/especialidades/Lakelight_Lily.png" width="30"/> | Flor da Luz do Lago | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Flor%20da%20Luz%20do%20Lago.7z) |
+| <img src="assets/especialidades/Lumidouce_Bell.png" width="30"/> | Campânula Lumidouce | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Campânula%20Lumidouce.7z) |
+| <img src="assets/especialidades/Lumitoile.png" width="30"/> | Lumitoile | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/lumitoile.7z) |
+| <img src="assets/especialidades/Rainbow_Rose.png" width="30"/> | Rosa Arco-Íris | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Rosa%20Arco-Íris.7z) |
+| <img src="assets/especialidades/Romaritime_Flower.png" width="30"/> | Flor Romaritime | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Flor%20Rociomarinha.7z) |
+| <img src="assets/especialidades/Spring_of_the_First_Dewdrop.png" width="30"/> | Primavera do Primeiro Orvalho | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Primavera%20do%20Primeiro%20Orvalho.7z) |
+| <img src="assets/especialidades/Subdetection_Unit.png" width="30"/> | Unidade de Subdetecção | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Unidade%20de%20Subdetec%C3%A7%C3%A3o.7z) |
 </details>
 
 <details>
@@ -229,14 +229,14 @@ Farme especialidades regionais para ascensão de personagens e missões.
 
 | Ícone | Nome | Download |
 |-------|------|----------|
-| <img src="assets/especialidades/Brilliant_Chrysanthemum.png" width="30"/> | Crisântemo Brilhante | [Download](#) |
-| <img src="assets/especialidades/Dracolite.png" width="30"/> | Dracolita | [Download](#) |
-| <img src="assets/especialidades/Glowing_Hornshroom.png" width="30"/> | Cogumelo Brilhante | [Download](#) |
-| <img src="assets/especialidades/Quenepa_Berry.png" width="30"/> | Baga Quenepa | [Download](#) |
-| <img src="assets/especialidades/Saurian_Claw_Succulent.png" width="30"/> | Suculenta de Garra Sauriana | [Download](#) |
-| <img src="assets/especialidades/Sprayfeather_Gill.png" width="30"/> | Guelra da Espuma | [Download](#) |
-| <img src="assets/especialidades/Withering_Purpurbloom.png" width="30"/> | Flor Púrpura Definhada | [Download](#) |
-| <img src="assets/especialidades/Skysplit_Gembloom.png" width="30"/> | Florgema Celeste | [Download](#) |
+| <img src="assets/especialidades/Brilliant_Chrysanthemum.png" width="30"/> | Crisântemo Brilhante | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Crisântemo%20Brilhante.7z) |
+| <img src="assets/especialidades/Dracolite.png" width="30"/> | Dracolita | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Dracolite.7z) |
+| <img src="assets/especialidades/Glowing_Hornshroom.png" width="30"/> | Cogumelo Brilhante | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Cogumelo%20Brilhante.7z) |
+| <img src="assets/especialidades/Quenepa_Berry.png" width="30"/> | Baga Quenepa | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Baga%20Quenepa.7z) |
+| <img src="assets/especialidades/Saurian_Claw_Succulent.png" width="30"/> | Suculenta de Garra Sauriana | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Suculenta%20de%20Garra%20Sauriana.7z) |
+| <img src="assets/especialidades/Sprayfeather_Gill.png" width="30"/> | Guelra da Espuma | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Guelra%20da%20Espuma.7z) |
+| <img src="assets/especialidades/Withering_Purpurbloom.png" width="30"/> | Flor Púrpura Definhada | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Flor%20Púrpura%20Definhada.7z) |
+| <img src="assets/especialidades/Skysplit_Gembloom.png" width="30"/> | Florgema Celeste | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Florgema%20Celeste.7z) |
 
 </details>
 
