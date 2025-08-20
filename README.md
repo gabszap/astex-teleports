@@ -111,6 +111,7 @@ git pull
 | <img src="assets/icons/ChenyuVale.png" width="30"/> | Vale Chenyu | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/baus/Vale%20Chenyu.7z) |
 | <img src="assets/icons/ancient-sea.png" width="30"/> | Mar Antigo | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/baus/Mar%20Antigo.7z) |
 | <img src="assets/icons/ancient_sacred_mountain.png" width="30"/> | Montanha Sagrada Antiga | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/baus/Montanha%20sagrada.7z) |
+| 🌎 | Todas as Regiões | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/baus/Todas%20as%20regi%C3%B5es.7z) |
 
 <p align="right"><a href="#-sumário">⬆ Voltar ao Topo</a></p>
 
@@ -135,6 +136,7 @@ git pull
 | <img src="assets/Key_Sigil.png" width="30"/> | Padrões de Chave | Enkanomiya | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/oculis/Padr%C3%B5es%20de%20chave.7z) |
 | <img src="assets/Sacred_Seal.png" width="30"/> | Selo Sagrado | Sumeru: Deserto | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/oculis/Selo%20Sagrado.7z) |
 | <img src="assets/Spirit_Carp.png" width="30"/> | Carpa Espiritual | Vale Chenyu | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/oculis/Carpa%20Espiritual.7z) |
+
 
 > **Observações**:
 > - **Minério Lúmen**: Usado para aumentar o nível da Lanterna Lúmen.
@@ -230,7 +232,7 @@ Farme especialidades regionais para ascensão de personagens e missões.
 | Ícone | Nome | Download |
 |-------|------|----------|
 | <img src="assets/especialidades/Brilliant_Chrysanthemum.png" width="30"/> | Crisântemo Brilhante | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Crisântemo%20Brilhante.7z) |
-| <img src="assets/especialidades/Dracolite.png" width="30"/> | Dracolita | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Dracolite.7z) |
+| <img src="assets/especialidades/Dracolite.png" width="30"/> | Dracolita | [Download](#) |
 | <img src="assets/especialidades/Glowing_Hornshroom.png" width="30"/> | Cogumelo Brilhante | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Cogumelo%20Brilhante.7z) |
 | <img src="assets/especialidades/Quenepa_Berry.png" width="30"/> | Baga Quenepa | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Baga%20Quenepa.7z) |
 | <img src="assets/especialidades/Saurian_Claw_Succulent.png" width="30"/> | Suculenta de Garra Sauriana | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/especialidades/Suculenta%20de%20Garra%20Sauriana.7z) |
