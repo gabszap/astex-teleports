@@ -65,7 +65,7 @@ git pull
 | Ícone | Nome | Região | Download |
 |-------|------|--------|----------|
 | <img src="assets/icons/ancient_sacred_mountain.png" width="30"/> | Montanha Sagrada Antiga | Natlan | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/baus/Montanha%20sagrada.7z) |
-| <img src="assets/icons/Pyroculus.png" width="30"/> | Pyroculus | Natlan | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/oculis/Pyroculus.7z) |
+| <img src="assets/Pyroculus.png" width="30"/> | Pyroculus | Natlan | [Download](https://github.com/gabszap/astex-teleports/raw/refs/heads/storage/oculis/Pyroculus.7z) |
 
 ### Baús
 > ⚠️ Não é 100% precisa. Pode haver baú faltando, repetido ou incorreto.
