@@ -1,0 +1,485 @@
+[
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_1",
+        "x": -4341.698,
+        "y": 205.786,
+        "z": -3892.483
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_10",
+        "x": -4706.138,
+        "y": 215.378,
+        "z": -4120.579
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_11",
+        "x": -4732.897,
+        "y": 215.171,
+        "z": -4113.65
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_12",
+        "x": -4782.677,
+        "y": 206.618,
+        "z": -3931.274
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_13",
+        "x": -4820.188,
+        "y": 209.224,
+        "z": -3937.846
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_14",
+        "x": -4811.917,
+        "y": 206.37,
+        "z": -4135.246
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_15",
+        "x": -4830.007,
+        "y": 210.639,
+        "z": -4145.132
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_16",
+        "x": -4831.63,
+        "y": 208.518,
+        "z": -4165.186
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_17",
+        "x": -4843.395,
+        "y": 213.386,
+        "z": -4192.575
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_18",
+        "x": -4762.196,
+        "y": 207.487,
+        "z": -4245.18
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_19",
+        "x": -4767.489,
+        "y": 208.857,
+        "z": -4275.164
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_2",
+        "x": -4401.101,
+        "y": 232.473,
+        "z": -3839.703
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_20",
+        "x": -4755.195,
+        "y": 205.134,
+        "z": -4260.123
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_21",
+        "x": -4748.936,
+        "y": 206.638,
+        "z": -4217.935
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_22",
+        "x": -4702.597,
+        "y": 204.991,
+        "z": -4187.847
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_23",
+        "x": -4690.188,
+        "y": 204.331,
+        "z": -4183.624
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_24",
+        "x": -4667.782,
+        "y": 204.695,
+        "z": -4180.906
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_25",
+        "x": -4606.047,
+        "y": 205.954,
+        "z": -4160.996
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_26",
+        "x": -4571.85,
+        "y": 204.2,
+        "z": -4205.58
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_27",
+        "x": -4641.715,
+        "y": 190.611,
+        "z": -4215.529
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_28",
+        "x": -4622.839,
+        "y": 195.108,
+        "z": -4215.757
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_29",
+        "x": -4619.519,
+        "y": 194.048,
+        "z": -4233.955
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_3",
+        "x": -4605.882,
+        "y": 203.736,
+        "z": -4018.324
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_30",
+        "x": -4582.04,
+        "y": 205.106,
+        "z": -4240.813
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_31",
+        "x": -4572.342,
+        "y": 209.378,
+        "z": -4258.819
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_32",
+        "x": -4539.869,
+        "y": 206.872,
+        "z": -4277.429
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_33",
+        "x": -4480.551,
+        "y": 203.848,
+        "z": -4292.844
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_34",
+        "x": -4468.749,
+        "y": 204.895,
+        "z": -4310.471
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_35",
+        "x": -4447.586,
+        "y": 205.372,
+        "z": -4321.832
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_36",
+        "x": -4300.132,
+        "y": 204.363,
+        "z": -4463.854
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_37",
+        "x": -4290.666,
+        "y": 205.266,
+        "z": -4439.668
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_38",
+        "x": -4294.991,
+        "y": 204.571,
+        "z": -4421.931
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_39",
+        "x": -4271.577,
+        "y": 232.574,
+        "z": -4216.575
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_4",
+        "x": -4635.381,
+        "y": 204.957,
+        "z": -3989.204
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_40",
+        "x": -4509.791,
+        "y": 204.361,
+        "z": -4196.808
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_41",
+        "x": -4524.372,
+        "y": 205.475,
+        "z": -4212.122
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_42",
+        "x": -4537.323,
+        "y": 206.623,
+        "z": -4233.024
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_43",
+        "x": -4646.777,
+        "y": 197.038,
+        "z": -4284.313
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_44",
+        "x": -4613.56,
+        "y": 205.429,
+        "z": -4291.888
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_45",
+        "x": -4668.27,
+        "y": 198.189,
+        "z": -4290.316
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_46",
+        "x": -4655.761,
+        "y": 209.614,
+        "z": -4335.904
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_47",
+        "x": -4675.73,
+        "y": 205.25,
+        "z": -4324.569
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_48",
+        "x": -4701.566,
+        "y": 206.659,
+        "z": -4329.047
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_49",
+        "x": -4723.617,
+        "y": 206.315,
+        "z": -4318.658
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_5",
+        "x": -4654.999,
+        "y": 205.412,
+        "z": -3985.311
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_50",
+        "x": -4741.603,
+        "y": 205.591,
+        "z": -4299.201
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_51",
+        "x": -4764.351,
+        "y": 212.499,
+        "z": -4320.403
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_52",
+        "x": -4861.299,
+        "y": 207.748,
+        "z": -4322.987
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_53",
+        "x": -4826.18,
+        "y": 206.853,
+        "z": -4406.987
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_54",
+        "x": -4790.736,
+        "y": 215.096,
+        "z": -4419.92
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_55",
+        "x": -4792.98,
+        "y": 208.568,
+        "z": -4443.156
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_56",
+        "x": -4784.312,
+        "y": 214.957,
+        "z": -4432.037
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_57",
+        "x": -4763.734,
+        "y": 208.577,
+        "z": -4471.057
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_58",
+        "x": -4737.734,
+        "y": 205.232,
+        "z": -4501.765
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_59",
+        "x": -4601.296,
+        "y": 216.265,
+        "z": -4405.684
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_6",
+        "x": -4671.664,
+        "y": 205.589,
+        "z": -3994.393
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_60",
+        "x": -4582.762,
+        "y": 207.882,
+        "z": -4422.576
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_61",
+        "x": -4574.083,
+        "y": 210.389,
+        "z": -4398.578
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_62",
+        "x": -4590.135,
+        "y": 220.682,
+        "z": -4373.004
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_63",
+        "x": -4541.572,
+        "y": 209.047,
+        "z": -4372.897
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_64",
+        "x": -4567.128,
+        "y": 204.471,
+        "z": -4441.468
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_65",
+        "x": -4577.873,
+        "y": 206.216,
+        "z": -4450.949
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_66",
+        "x": -4605.729,
+        "y": 206.167,
+        "z": -4477.278
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_67",
+        "x": -4661.212,
+        "y": 206.455,
+        "z": -4508.152
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_68",
+        "x": -4840.345,
+        "y": 203.762,
+        "z": -4755.77
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_69",
+        "x": -4825.452,
+        "y": 203.763,
+        "z": -4777.58
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_7",
+        "x": -4687.548,
+        "y": 206.931,
+        "z": -4065.894
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_8",
+        "x": -4670.66,
+        "y": 206.797,
+        "z": -4083.82
+    },
+    {
+        "color": 4294967295,
+        "name": "Waypoints Teyvat_AmakumoFruit_9",
+        "x": -4686.534,
+        "y": 211.726,
+        "z": -4118.854
+    }
+]
