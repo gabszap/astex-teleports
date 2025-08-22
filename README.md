@@ -36,6 +36,10 @@ Astex Teleports traduz e disponibiliza teleportes prontos para uso no <em>Genshi
 
 > Compatibilidade: para Akebi, use a branch <a href="https://github.com/gabszap/astex-teleports/tree/main"><code>main</code></a>.
 
+## 🌐 Status da Tradução
+
+> Quase tudo já foi traduzido — restam apenas **mobs**, **peixes** e **madeiras**.
+
 ---
 ## ⬇️ Como Baixar o Repositório
 
